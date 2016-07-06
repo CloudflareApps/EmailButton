@@ -1,5 +1,3 @@
-"use strict"
-
 (function () {
   if (!window.addEventListener) return // Check for IE9+
 
