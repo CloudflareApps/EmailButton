@@ -3,11 +3,11 @@
     "body": [
       {
         "type": "style",
-        "src": "./build/app.css"
+        "src": "app.css"
       },
       {
         "type": "script",
-        "src": "./build/app.js"
+        "src": "app.js"
       }
     ]
   },
